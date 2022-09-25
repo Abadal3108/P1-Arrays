@@ -1,6 +1,7 @@
 ## P1: Arrays
 ### EX_03
 
+
 En este ejercicio tendremos que crear un array multidimensional haremos 2 bucles para hacer el print de cuyo array de forma que podamos imprimir las filas y columnas.
 
 ![img.png](img.png)
